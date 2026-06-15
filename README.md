@@ -82,17 +82,8 @@ Phishing-Email-Detection-ML/
 ├── data/
 │ └── emails.csv
 
-├── models/
-│ └── phishing_model.pkl
-
 ├── notebooks/
 │ └── EDA.ipynb
-
-├── src/
-│ ├── train.py
-│ ├── predict.py
-│ ├── feature_extraction.py
-│ └── utils.py
 
 ├── requirements.txt
 ├── README.md
@@ -206,7 +197,7 @@ PHISHING
 
 ---
 
-## 📷 Results
+## Results
 
 ### Confusion Matrix
 
@@ -220,7 +211,7 @@ Prediction: 1.0
 
 ---
 
-## 🧠 Feature Engineering
+##  Feature Engineering
 
 ### Text Features
 
