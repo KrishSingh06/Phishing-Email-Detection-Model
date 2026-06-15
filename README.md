@@ -1,4 +1,4 @@
-# 🛡️ Phishing Email Detection Model
+# Phishing Email Detection Model
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
@@ -93,10 +93,6 @@ Phishing-Email-Detection-ML/
 │ ├── predict.py
 │ ├── feature_extraction.py
 │ └── utils.py
-
-├── screenshots/
-│ ├── confusion_matrix.png
-│ └── output.png
 
 ├── requirements.txt
 ├── README.md
